@@ -8,7 +8,7 @@ The attendance details are displayed on the **Serial Monitor** and transmitted t
 
 ## 🔧 Components
 
-- Arduino UNO
+- Arduino NANO
 - EM-18 RFID Reader
 - HC-05 Bluetooth Module
 - RFID Cards/Tags
@@ -26,7 +26,7 @@ The attendance details are displayed on the **Serial Monitor** and transmitted t
 
 ## 🔌 Pin Connections
 
-| Component | Arduino UNO |
+| Component | Arduino NANO |
 |---|---|
 | EM-18 TX | D2 |
 | EM-18 RX | D3 |
@@ -80,12 +80,12 @@ Unknown RFID Card
 
 ### Hardware Setup
 
-![RFID Bluetooth Attendance System](RFID_Attendance_Hardware.jpeg)
+![RFID Bluetooth Attendance System](https://drive.google.com/file/d/1tZRxRQzda6a_zYhoO3Acd-HqYup_osc6/view?usp=drivesdk)
 
 ### Project Working
 
-![Project Working](RFID_Serial_Monitor.jpeg)
+![Project Working](https://drive.google.com/file/d/1229dpSKWfYXmZCXf_ZwYnIT99Z6dohfq/view?usp=drivesdk)
 
 ### Bluetooth Attendance Output
 
-![Bluetooth Output](RFID_Blutooth_Output.jpeg)
+![Bluetooth Output](https://drive.google.com/file/d/1GIZVLgGzpK5NWea2N36DueBKSOk0GGri/view?usp=drivesdk)
