@@ -80,12 +80,12 @@ Unknown RFID Card
 
 ### Hardware Setup
 
-![RFID Bluetooth Attendance System](https://drive.google.com/file/d/1tZRxRQzda6a_zYhoO3Acd-HqYup_osc6/view?usp=drivesdk)
+![RFID Bluetooth Attendance System](RFID Bluetooth Attendance System.jpeg)
 
 ### Project Working
 
-![Project Working](https://drive.google.com/file/d/1229dpSKWfYXmZCXf_ZwYnIT99Z6dohfq/view?usp=drivesdk)
+![Project Working](Project Working.jpeg)
 
 ### Bluetooth Attendance Output
 
-![Bluetooth Output](https://drive.google.com/file/d/1GIZVLgGzpK5NWea2N36DueBKSOk0GGri/view?usp=drivesdk)
+![Bluetooth Output](Bluetooth Output.jpeg)
